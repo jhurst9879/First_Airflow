@@ -1,0 +1,23 @@
+[2022-07-23 02:56:21,575] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: csv_dag.final_dag scheduled__2022-07-22T00:00:00+00:00 [queued]>
+[2022-07-23 02:56:21,584] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: csv_dag.final_dag scheduled__2022-07-22T00:00:00+00:00 [queued]>
+[2022-07-23 02:56:21,584] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2022-07-23 02:56:21,585] {taskinstance.py:1377} INFO - Starting attempt 1 of 2
+[2022-07-23 02:56:21,585] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2022-07-23 02:56:21,600] {taskinstance.py:1397} INFO - Executing <Task(PythonOperator): final_dag> on 2022-07-22 00:00:00+00:00
+[2022-07-23 02:56:21,606] {standard_task_runner.py:52} INFO - Started process 10653 to run task
+[2022-07-23 02:56:21,609] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'csv_dag', 'final_dag', 'scheduled__2022-07-22T00:00:00+00:00', '--job-id', '51', '--raw', '--subdir', 'DAGS_FOLDER/testDag.py', '--cfg-path', '/tmp/tmpuxfh91qy', '--error-file', '/tmp/tmp3isqjp9f']
+[2022-07-23 02:56:21,610] {standard_task_runner.py:80} INFO - Job 51: Subtask final_dag
+[2022-07-23 02:56:21,675] {task_command.py:371} INFO - Running <TaskInstance: csv_dag.final_dag scheduled__2022-07-22T00:00:00+00:00 [running]> on host 36e1df4dd6ce
+[2022-07-23 02:56:21,788] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=csv_dag
+AIRFLOW_CTX_TASK_ID=final_dag
+AIRFLOW_CTX_EXECUTION_DATE=2022-07-22T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-07-22T00:00:00+00:00
+[2022-07-23 02:56:21,884] {python.py:173} INFO - Done. Returned value was: None
+[2022-07-23 02:56:21,898] {taskinstance.py:1420} INFO - Marking task as SUCCESS. dag_id=csv_dag, task_id=final_dag, execution_date=20220722T000000, start_date=20220723T025621, end_date=20220723T025621
+[2022-07-23 02:56:21,941] {local_task_job.py:156} INFO - Task exited with return code 0
+[2022-07-23 02:56:21,976] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

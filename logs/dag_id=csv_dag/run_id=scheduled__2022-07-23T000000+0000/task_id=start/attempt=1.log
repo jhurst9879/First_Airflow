@@ -1,0 +1,28 @@
+[2022-07-24 02:42:32,656] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: csv_dag.start scheduled__2022-07-23T00:00:00+00:00 [queued]>
+[2022-07-24 02:42:32,695] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: csv_dag.start scheduled__2022-07-23T00:00:00+00:00 [queued]>
+[2022-07-24 02:42:32,697] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2022-07-24 02:42:32,700] {taskinstance.py:1377} INFO - Starting attempt 1 of 2
+[2022-07-24 02:42:32,702] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2022-07-24 02:42:32,770] {taskinstance.py:1397} INFO - Executing <Task(BashOperator): start> on 2022-07-23 00:00:00+00:00
+[2022-07-24 02:42:32,804] {standard_task_runner.py:52} INFO - Started process 11632 to run task
+[2022-07-24 02:42:32,836] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'csv_dag', 'start', 'scheduled__2022-07-23T00:00:00+00:00', '--job-id', '52', '--raw', '--subdir', 'DAGS_FOLDER/testDag.py', '--cfg-path', '/tmp/tmps9zh4z13', '--error-file', '/tmp/tmpxo0wpy3b']
+[2022-07-24 02:42:32,848] {standard_task_runner.py:80} INFO - Job 52: Subtask start
+[2022-07-24 02:42:33,113] {task_command.py:371} INFO - Running <TaskInstance: csv_dag.start scheduled__2022-07-23T00:00:00+00:00 [running]> on host 36e1df4dd6ce
+[2022-07-24 02:42:33,344] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=csv_dag
+AIRFLOW_CTX_TASK_ID=start
+AIRFLOW_CTX_EXECUTION_DATE=2022-07-23T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-07-23T00:00:00+00:00
+[2022-07-24 02:42:33,357] {subprocess.py:62} INFO - Tmp dir root location: 
+ /tmp
+[2022-07-24 02:42:33,359] {subprocess.py:74} INFO - Running command: ['bash', '-c', 'date']
+[2022-07-24 02:42:33,376] {subprocess.py:85} INFO - Output:
+[2022-07-24 02:42:33,405] {subprocess.py:92} INFO - Sun Jul 24 02:42:33 UTC 2022
+[2022-07-24 02:42:33,406] {subprocess.py:96} INFO - Command exited with return code 0
+[2022-07-24 02:42:33,461] {taskinstance.py:1420} INFO - Marking task as SUCCESS. dag_id=csv_dag, task_id=start, execution_date=20220723T000000, start_date=20220724T024232, end_date=20220724T024233
+[2022-07-24 02:42:33,531] {local_task_job.py:156} INFO - Task exited with return code 0
+[2022-07-24 02:42:33,642] {local_task_job.py:273} INFO - 4 downstream tasks scheduled from follow-on schedule check

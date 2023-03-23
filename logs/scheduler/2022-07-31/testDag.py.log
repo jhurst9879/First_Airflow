@@ -1,0 +1,1400 @@
+[2022-07-31 02:33:49,727] {processor.py:153} INFO - Started process (PID=3342) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 02:33:49,728] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 02:33:49,730] {logging_mixin.py:115} INFO - [2022-07-31 02:33:49,729] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 02:33:50,374] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 02:33:50,383] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 02:33:50,421] {logging_mixin.py:115} INFO - [2022-07-31 02:33:50,421] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 02:33:50,455] {logging_mixin.py:115} INFO - [2022-07-31 02:33:50,455] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 02:33:50,473] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.753 seconds
+[2022-07-31 02:34:21,041] {processor.py:153} INFO - Started process (PID=3552) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 02:34:21,042] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 02:34:21,043] {logging_mixin.py:115} INFO - [2022-07-31 02:34:21,042] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 02:34:21,560] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 02:34:21,568] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 02:34:21,599] {logging_mixin.py:115} INFO - [2022-07-31 02:34:21,598] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 02:34:21,633] {logging_mixin.py:115} INFO - [2022-07-31 02:34:21,633] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 02:34:21,657] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.620 seconds
+[2022-07-31 02:34:51,859] {processor.py:153} INFO - Started process (PID=3773) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 02:34:51,860] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 02:34:51,861] {logging_mixin.py:115} INFO - [2022-07-31 02:34:51,860] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 02:34:52,345] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 02:34:52,351] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 02:34:52,380] {logging_mixin.py:115} INFO - [2022-07-31 02:34:52,380] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 02:34:52,402] {logging_mixin.py:115} INFO - [2022-07-31 02:34:52,402] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 02:34:52,416] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.560 seconds
+[2022-07-31 02:35:22,549] {processor.py:153} INFO - Started process (PID=3982) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 02:35:22,549] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 02:35:22,550] {logging_mixin.py:115} INFO - [2022-07-31 02:35:22,550] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 02:35:23,014] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 02:35:23,019] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 02:35:23,045] {logging_mixin.py:115} INFO - [2022-07-31 02:35:23,044] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 02:35:23,073] {logging_mixin.py:115} INFO - [2022-07-31 02:35:23,073] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 02:35:23,090] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.544 seconds
+[2022-07-31 02:35:53,957] {processor.py:153} INFO - Started process (PID=4200) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 02:35:53,958] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 02:35:53,959] {logging_mixin.py:115} INFO - [2022-07-31 02:35:53,959] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 02:35:54,468] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 02:35:54,475] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 02:35:54,502] {logging_mixin.py:115} INFO - [2022-07-31 02:35:54,501] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 02:35:54,531] {logging_mixin.py:115} INFO - [2022-07-31 02:35:54,531] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 02:35:54,551] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.598 seconds
+[2022-07-31 02:36:24,759] {processor.py:153} INFO - Started process (PID=4416) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 02:36:24,760] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 02:36:24,761] {logging_mixin.py:115} INFO - [2022-07-31 02:36:24,761] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 02:36:25,399] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 02:36:25,408] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 02:36:25,441] {logging_mixin.py:115} INFO - [2022-07-31 02:36:25,440] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 02:36:25,476] {logging_mixin.py:115} INFO - [2022-07-31 02:36:25,476] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 02:36:25,496] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.743 seconds
+[2022-07-31 02:36:56,177] {processor.py:153} INFO - Started process (PID=4622) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 02:36:56,178] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 02:36:56,179] {logging_mixin.py:115} INFO - [2022-07-31 02:36:56,179] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 02:36:56,696] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 02:36:56,703] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 02:36:56,740] {logging_mixin.py:115} INFO - [2022-07-31 02:36:56,739] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 02:36:56,785] {logging_mixin.py:115} INFO - [2022-07-31 02:36:56,784] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 02:36:56,811] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.637 seconds
+[2022-07-31 02:37:26,910] {processor.py:153} INFO - Started process (PID=4840) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 02:37:26,911] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 02:37:26,911] {logging_mixin.py:115} INFO - [2022-07-31 02:37:26,911] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 02:37:27,385] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 02:37:27,391] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 02:37:27,419] {logging_mixin.py:115} INFO - [2022-07-31 02:37:27,418] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 02:37:27,448] {logging_mixin.py:115} INFO - [2022-07-31 02:37:27,448] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 02:37:27,462] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.555 seconds
+[2022-07-31 02:37:58,187] {processor.py:153} INFO - Started process (PID=5034) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 02:37:58,188] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 02:37:58,189] {logging_mixin.py:115} INFO - [2022-07-31 02:37:58,189] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 02:37:58,725] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 02:37:58,732] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 02:37:58,771] {logging_mixin.py:115} INFO - [2022-07-31 02:37:58,770] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 02:37:58,809] {logging_mixin.py:115} INFO - [2022-07-31 02:37:58,809] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 02:37:58,832] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.647 seconds
+[2022-07-31 02:38:28,932] {processor.py:153} INFO - Started process (PID=5252) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 02:38:28,933] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 02:38:28,934] {logging_mixin.py:115} INFO - [2022-07-31 02:38:28,934] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 02:38:29,412] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 02:38:29,420] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 02:38:29,450] {logging_mixin.py:115} INFO - [2022-07-31 02:38:29,449] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 02:38:29,520] {logging_mixin.py:115} INFO - [2022-07-31 02:38:29,510] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 02:38:29,572] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.643 seconds
+[2022-07-31 02:39:00,240] {processor.py:153} INFO - Started process (PID=5446) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 02:39:00,241] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 02:39:00,242] {logging_mixin.py:115} INFO - [2022-07-31 02:39:00,242] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 02:39:00,718] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 02:39:00,726] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 02:39:00,757] {logging_mixin.py:115} INFO - [2022-07-31 02:39:00,757] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 02:39:00,785] {logging_mixin.py:115} INFO - [2022-07-31 02:39:00,785] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 02:39:00,805] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.569 seconds
+[2022-07-31 02:39:30,975] {processor.py:153} INFO - Started process (PID=5648) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 02:39:30,976] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 02:39:30,977] {logging_mixin.py:115} INFO - [2022-07-31 02:39:30,977] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 02:39:31,583] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 02:39:31,589] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 02:39:31,618] {logging_mixin.py:115} INFO - [2022-07-31 02:39:31,618] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 02:39:31,645] {logging_mixin.py:115} INFO - [2022-07-31 02:39:31,645] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 02:39:31,659] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.690 seconds
+[2022-07-31 02:40:02,597] {processor.py:153} INFO - Started process (PID=5842) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 02:40:02,598] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 02:40:02,599] {logging_mixin.py:115} INFO - [2022-07-31 02:40:02,599] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 02:40:03,077] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 02:40:03,083] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 02:40:03,118] {logging_mixin.py:115} INFO - [2022-07-31 02:40:03,117] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 02:40:03,146] {logging_mixin.py:115} INFO - [2022-07-31 02:40:03,145] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 02:40:03,165] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.572 seconds
+[2022-07-31 02:40:33,278] {processor.py:153} INFO - Started process (PID=6045) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 02:40:33,279] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 02:40:33,279] {logging_mixin.py:115} INFO - [2022-07-31 02:40:33,279] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 02:40:33,833] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 02:40:33,842] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 02:40:33,885] {logging_mixin.py:115} INFO - [2022-07-31 02:40:33,884] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 02:40:33,921] {logging_mixin.py:115} INFO - [2022-07-31 02:40:33,920] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 02:40:33,946] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.672 seconds
+[2022-07-31 02:41:04,085] {processor.py:153} INFO - Started process (PID=6239) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 02:41:04,088] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 02:41:04,090] {logging_mixin.py:115} INFO - [2022-07-31 02:41:04,089] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 02:41:04,670] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 02:41:04,680] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 02:41:04,723] {logging_mixin.py:115} INFO - [2022-07-31 02:41:04,721] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 02:41:04,760] {logging_mixin.py:115} INFO - [2022-07-31 02:41:04,760] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 02:41:04,783] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.706 seconds
+[2022-07-31 02:41:35,256] {processor.py:153} INFO - Started process (PID=6442) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 02:41:35,257] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 02:41:35,258] {logging_mixin.py:115} INFO - [2022-07-31 02:41:35,258] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 02:41:35,717] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 02:41:35,723] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 02:41:35,751] {logging_mixin.py:115} INFO - [2022-07-31 02:41:35,750] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 02:41:35,780] {logging_mixin.py:115} INFO - [2022-07-31 02:41:35,780] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 02:41:35,804] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.550 seconds
+[2022-07-31 02:42:06,135] {processor.py:153} INFO - Started process (PID=6643) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 02:42:06,136] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 02:42:06,137] {logging_mixin.py:115} INFO - [2022-07-31 02:42:06,137] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 02:42:06,620] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 02:42:06,628] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 02:42:06,662] {logging_mixin.py:115} INFO - [2022-07-31 02:42:06,661] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 02:42:06,688] {logging_mixin.py:115} INFO - [2022-07-31 02:42:06,688] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 02:42:06,704] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.573 seconds
+[2022-07-31 02:42:37,410] {processor.py:153} INFO - Started process (PID=6839) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 02:42:37,411] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 02:42:37,412] {logging_mixin.py:115} INFO - [2022-07-31 02:42:37,412] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 02:42:37,879] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 02:42:37,890] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 02:42:37,939] {logging_mixin.py:115} INFO - [2022-07-31 02:42:37,937] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 02:42:37,974] {logging_mixin.py:115} INFO - [2022-07-31 02:42:37,974] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 02:42:38,003] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.596 seconds
+[2022-07-31 02:43:08,887] {processor.py:153} INFO - Started process (PID=7042) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 02:43:08,888] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 02:43:08,889] {logging_mixin.py:115} INFO - [2022-07-31 02:43:08,889] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 02:43:09,459] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 02:43:09,469] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 02:43:09,503] {logging_mixin.py:115} INFO - [2022-07-31 02:43:09,502] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 02:43:09,536] {logging_mixin.py:115} INFO - [2022-07-31 02:43:09,536] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 02:43:09,557] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.674 seconds
+[2022-07-31 02:43:40,029] {processor.py:153} INFO - Started process (PID=7237) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 02:43:40,030] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 02:43:40,031] {logging_mixin.py:115} INFO - [2022-07-31 02:43:40,031] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 02:43:40,542] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 02:43:40,551] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 02:43:40,579] {logging_mixin.py:115} INFO - [2022-07-31 02:43:40,579] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 02:43:40,609] {logging_mixin.py:115} INFO - [2022-07-31 02:43:40,608] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 02:43:40,627] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.602 seconds
+[2022-07-31 02:44:10,698] {processor.py:153} INFO - Started process (PID=7440) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 02:44:10,699] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 02:44:10,700] {logging_mixin.py:115} INFO - [2022-07-31 02:44:10,700] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 02:44:11,155] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 02:44:11,160] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 02:44:11,186] {logging_mixin.py:115} INFO - [2022-07-31 02:44:11,186] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 02:44:11,212] {logging_mixin.py:115} INFO - [2022-07-31 02:44:11,212] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 02:44:11,228] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.534 seconds
+[2022-07-31 02:44:41,699] {processor.py:153} INFO - Started process (PID=7635) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 02:44:41,700] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 02:44:41,701] {logging_mixin.py:115} INFO - [2022-07-31 02:44:41,700] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 02:44:42,188] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 02:44:42,198] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 02:44:42,239] {logging_mixin.py:115} INFO - [2022-07-31 02:44:42,238] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 02:44:42,272] {logging_mixin.py:115} INFO - [2022-07-31 02:44:42,272] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 02:44:42,292] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.597 seconds
+[2022-07-31 02:45:12,398] {processor.py:153} INFO - Started process (PID=7839) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 02:45:12,399] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 02:45:12,400] {logging_mixin.py:115} INFO - [2022-07-31 02:45:12,400] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 02:45:12,852] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 02:45:12,859] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 02:45:12,891] {logging_mixin.py:115} INFO - [2022-07-31 02:45:12,890] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 02:45:12,919] {logging_mixin.py:115} INFO - [2022-07-31 02:45:12,919] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 02:45:12,945] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.550 seconds
+[2022-07-31 02:45:42,998] {processor.py:153} INFO - Started process (PID=8033) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 02:45:42,999] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 02:45:43,000] {logging_mixin.py:115} INFO - [2022-07-31 02:45:43,000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 02:45:43,454] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 02:45:43,461] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 02:45:43,490] {logging_mixin.py:115} INFO - [2022-07-31 02:45:43,489] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 02:45:43,518] {logging_mixin.py:115} INFO - [2022-07-31 02:45:43,518] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 02:45:43,536] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.541 seconds
+[2022-07-31 03:09:01,863] {processor.py:153} INFO - Started process (PID=8236) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:09:01,869] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:09:01,872] {logging_mixin.py:115} INFO - [2022-07-31 03:09:01,872] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:09:03,347] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:09:03,357] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:09:03,398] {logging_mixin.py:115} INFO - [2022-07-31 03:09:03,397] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:09:03,446] {logging_mixin.py:115} INFO - [2022-07-31 03:09:03,446] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:09:03,469] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 1.614 seconds
+[2022-07-31 03:09:33,613] {processor.py:153} INFO - Started process (PID=8441) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:09:33,614] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:09:33,614] {logging_mixin.py:115} INFO - [2022-07-31 03:09:33,614] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:09:34,018] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:09:34,025] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:09:34,059] {logging_mixin.py:115} INFO - [2022-07-31 03:09:34,058] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:09:34,084] {logging_mixin.py:115} INFO - [2022-07-31 03:09:34,083] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:09:34,098] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.489 seconds
+[2022-07-31 03:10:04,255] {processor.py:153} INFO - Started process (PID=8635) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:10:04,256] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:10:04,257] {logging_mixin.py:115} INFO - [2022-07-31 03:10:04,257] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:10:04,670] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:10:04,676] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:10:04,703] {logging_mixin.py:115} INFO - [2022-07-31 03:10:04,702] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:10:04,727] {logging_mixin.py:115} INFO - [2022-07-31 03:10:04,727] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:10:04,743] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.491 seconds
+[2022-07-31 03:10:35,051] {processor.py:153} INFO - Started process (PID=8838) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:10:35,053] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:10:35,054] {logging_mixin.py:115} INFO - [2022-07-31 03:10:35,054] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:10:35,590] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:10:35,598] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:10:35,634] {logging_mixin.py:115} INFO - [2022-07-31 03:10:35,633] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:10:35,666] {logging_mixin.py:115} INFO - [2022-07-31 03:10:35,665] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:10:35,687] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.642 seconds
+[2022-07-31 03:11:06,055] {processor.py:153} INFO - Started process (PID=9032) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:11:06,056] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:11:06,056] {logging_mixin.py:115} INFO - [2022-07-31 03:11:06,056] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:11:06,585] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:11:06,599] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:11:06,635] {logging_mixin.py:115} INFO - [2022-07-31 03:11:06,634] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:11:06,674] {logging_mixin.py:115} INFO - [2022-07-31 03:11:06,673] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:11:06,698] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.647 seconds
+[2022-07-31 03:11:36,817] {processor.py:153} INFO - Started process (PID=9250) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:11:36,818] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:11:36,819] {logging_mixin.py:115} INFO - [2022-07-31 03:11:36,819] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:11:37,387] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:11:37,398] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:11:37,435] {logging_mixin.py:115} INFO - [2022-07-31 03:11:37,434] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:11:37,465] {logging_mixin.py:115} INFO - [2022-07-31 03:11:37,465] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:11:37,491] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.678 seconds
+[2022-07-31 03:12:08,179] {processor.py:153} INFO - Started process (PID=9463) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:12:08,180] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:12:08,181] {logging_mixin.py:115} INFO - [2022-07-31 03:12:08,180] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:12:08,735] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:12:08,746] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:12:08,788] {logging_mixin.py:115} INFO - [2022-07-31 03:12:08,787] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:12:08,820] {logging_mixin.py:115} INFO - [2022-07-31 03:12:08,820] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:12:08,841] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.667 seconds
+[2022-07-31 03:12:39,501] {processor.py:153} INFO - Started process (PID=9662) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:12:39,502] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:12:39,502] {logging_mixin.py:115} INFO - [2022-07-31 03:12:39,502] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:12:39,990] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:12:39,998] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:12:40,030] {logging_mixin.py:115} INFO - [2022-07-31 03:12:40,029] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:12:40,057] {logging_mixin.py:115} INFO - [2022-07-31 03:12:40,057] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:12:40,082] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.586 seconds
+[2022-07-31 03:13:10,306] {processor.py:153} INFO - Started process (PID=9885) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:13:10,307] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:13:10,308] {logging_mixin.py:115} INFO - [2022-07-31 03:13:10,308] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:13:10,862] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:13:10,869] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:13:10,899] {logging_mixin.py:115} INFO - [2022-07-31 03:13:10,898] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:13:10,934] {logging_mixin.py:115} INFO - [2022-07-31 03:13:10,934] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:13:10,951] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.648 seconds
+[2022-07-31 03:13:41,538] {processor.py:153} INFO - Started process (PID=10084) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:13:41,538] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:13:41,539] {logging_mixin.py:115} INFO - [2022-07-31 03:13:41,539] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:13:42,057] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:13:42,065] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:13:42,097] {logging_mixin.py:115} INFO - [2022-07-31 03:13:42,096] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:13:42,127] {logging_mixin.py:115} INFO - [2022-07-31 03:13:42,127] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:13:42,148] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.615 seconds
+[2022-07-31 03:14:12,452] {processor.py:153} INFO - Started process (PID=10305) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:14:12,453] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:14:12,454] {logging_mixin.py:115} INFO - [2022-07-31 03:14:12,454] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:14:12,975] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:14:12,984] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:14:13,020] {logging_mixin.py:115} INFO - [2022-07-31 03:14:13,019] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:14:13,057] {logging_mixin.py:115} INFO - [2022-07-31 03:14:13,057] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:14:13,077] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.629 seconds
+[2022-07-31 03:14:43,524] {processor.py:153} INFO - Started process (PID=10511) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:14:43,525] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:14:43,526] {logging_mixin.py:115} INFO - [2022-07-31 03:14:43,525] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:14:44,016] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:14:44,026] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:14:44,060] {logging_mixin.py:115} INFO - [2022-07-31 03:14:44,060] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:14:44,092] {logging_mixin.py:115} INFO - [2022-07-31 03:14:44,092] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:14:44,113] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.593 seconds
+[2022-07-31 03:15:14,987] {processor.py:153} INFO - Started process (PID=10729) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:15:14,987] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:15:14,988] {logging_mixin.py:115} INFO - [2022-07-31 03:15:14,988] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:15:15,511] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:15:15,518] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:15:15,549] {logging_mixin.py:115} INFO - [2022-07-31 03:15:15,548] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:15:15,581] {logging_mixin.py:115} INFO - [2022-07-31 03:15:15,581] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:15:15,606] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.624 seconds
+[2022-07-31 03:15:45,786] {processor.py:153} INFO - Started process (PID=10938) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:15:45,786] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:15:45,787] {logging_mixin.py:115} INFO - [2022-07-31 03:15:45,787] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:15:46,316] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:15:46,327] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:15:46,363] {logging_mixin.py:115} INFO - [2022-07-31 03:15:46,362] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:15:46,394] {logging_mixin.py:115} INFO - [2022-07-31 03:15:46,394] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:15:46,422] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.640 seconds
+[2022-07-31 03:16:16,883] {processor.py:153} INFO - Started process (PID=11141) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:16:16,884] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:16:16,885] {logging_mixin.py:115} INFO - [2022-07-31 03:16:16,885] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:16:17,383] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:16:17,392] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:16:17,430] {logging_mixin.py:115} INFO - [2022-07-31 03:16:17,429] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:16:17,473] {logging_mixin.py:115} INFO - [2022-07-31 03:16:17,472] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:16:17,490] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.611 seconds
+[2022-07-31 03:16:47,724] {processor.py:153} INFO - Started process (PID=11349) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:16:47,725] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:16:47,725] {logging_mixin.py:115} INFO - [2022-07-31 03:16:47,725] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:16:48,339] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:16:48,347] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:16:48,387] {logging_mixin.py:115} INFO - [2022-07-31 03:16:48,386] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:16:48,429] {logging_mixin.py:115} INFO - [2022-07-31 03:16:48,429] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:16:48,450] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.730 seconds
+[2022-07-31 03:17:18,641] {processor.py:153} INFO - Started process (PID=11568) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:17:18,642] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:17:18,643] {logging_mixin.py:115} INFO - [2022-07-31 03:17:18,643] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:17:19,182] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:17:19,190] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:17:19,220] {logging_mixin.py:115} INFO - [2022-07-31 03:17:19,220] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:17:19,249] {logging_mixin.py:115} INFO - [2022-07-31 03:17:19,249] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:17:19,266] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.631 seconds
+[2022-07-31 03:17:50,247] {processor.py:153} INFO - Started process (PID=11792) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:17:50,248] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:17:50,249] {logging_mixin.py:115} INFO - [2022-07-31 03:17:50,249] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:17:50,799] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:17:50,808] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:17:50,843] {logging_mixin.py:115} INFO - [2022-07-31 03:17:50,842] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:17:50,873] {logging_mixin.py:115} INFO - [2022-07-31 03:17:50,873] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:17:50,892] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.648 seconds
+[2022-07-31 03:18:21,511] {processor.py:153} INFO - Started process (PID=11991) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:18:21,512] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:18:21,513] {logging_mixin.py:115} INFO - [2022-07-31 03:18:21,513] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:18:21,989] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:18:21,995] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:18:22,025] {logging_mixin.py:115} INFO - [2022-07-31 03:18:22,024] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:18:22,053] {logging_mixin.py:115} INFO - [2022-07-31 03:18:22,053] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:18:22,078] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.571 seconds
+[2022-07-31 03:18:52,540] {processor.py:153} INFO - Started process (PID=12195) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:18:52,541] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:18:52,541] {logging_mixin.py:115} INFO - [2022-07-31 03:18:52,541] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:18:52,981] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:18:52,988] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:18:53,015] {logging_mixin.py:115} INFO - [2022-07-31 03:18:53,014] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:18:53,042] {logging_mixin.py:115} INFO - [2022-07-31 03:18:53,042] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:18:53,066] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.529 seconds
+[2022-07-31 03:19:23,896] {processor.py:153} INFO - Started process (PID=12389) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:19:23,897] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:19:23,898] {logging_mixin.py:115} INFO - [2022-07-31 03:19:23,898] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:19:24,386] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:19:24,394] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:19:24,435] {logging_mixin.py:115} INFO - [2022-07-31 03:19:24,434] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:19:24,464] {logging_mixin.py:115} INFO - [2022-07-31 03:19:24,464] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:19:24,485] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.592 seconds
+[2022-07-31 03:19:54,626] {processor.py:153} INFO - Started process (PID=12592) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:19:54,627] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:19:54,628] {logging_mixin.py:115} INFO - [2022-07-31 03:19:54,628] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:19:55,072] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:19:55,078] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:19:55,113] {logging_mixin.py:115} INFO - [2022-07-31 03:19:55,112] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:19:55,141] {logging_mixin.py:115} INFO - [2022-07-31 03:19:55,141] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:19:55,169] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.546 seconds
+[2022-07-31 03:20:25,558] {processor.py:153} INFO - Started process (PID=12786) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:20:25,559] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:20:25,560] {logging_mixin.py:115} INFO - [2022-07-31 03:20:25,560] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:20:26,006] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:20:26,014] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:20:26,045] {logging_mixin.py:115} INFO - [2022-07-31 03:20:26,045] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:20:26,075] {logging_mixin.py:115} INFO - [2022-07-31 03:20:26,075] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:20:26,095] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.540 seconds
+[2022-07-31 03:20:56,280] {processor.py:153} INFO - Started process (PID=12989) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:20:56,281] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:20:56,282] {logging_mixin.py:115} INFO - [2022-07-31 03:20:56,282] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:20:56,739] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:20:56,746] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:20:56,776] {logging_mixin.py:115} INFO - [2022-07-31 03:20:56,775] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:20:56,804] {logging_mixin.py:115} INFO - [2022-07-31 03:20:56,803] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:20:56,824] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.548 seconds
+[2022-07-31 03:21:27,689] {processor.py:153} INFO - Started process (PID=13184) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:21:27,690] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:21:27,691] {logging_mixin.py:115} INFO - [2022-07-31 03:21:27,691] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:21:28,171] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:21:28,179] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:21:28,212] {logging_mixin.py:115} INFO - [2022-07-31 03:21:28,211] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:21:28,240] {logging_mixin.py:115} INFO - [2022-07-31 03:21:28,240] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:21:28,261] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.575 seconds
+[2022-07-31 03:21:59,039] {processor.py:153} INFO - Started process (PID=13387) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:21:59,039] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:21:59,040] {logging_mixin.py:115} INFO - [2022-07-31 03:21:59,040] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:21:59,527] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:21:59,535] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:21:59,564] {logging_mixin.py:115} INFO - [2022-07-31 03:21:59,563] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:21:59,590] {logging_mixin.py:115} INFO - [2022-07-31 03:21:59,590] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:21:59,609] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.573 seconds
+[2022-07-31 03:22:29,743] {processor.py:153} INFO - Started process (PID=13581) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:22:29,745] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:22:29,747] {logging_mixin.py:115} INFO - [2022-07-31 03:22:29,747] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:22:30,292] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:22:30,299] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:22:30,331] {logging_mixin.py:115} INFO - [2022-07-31 03:22:30,330] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:22:30,361] {logging_mixin.py:115} INFO - [2022-07-31 03:22:30,360] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:22:30,390] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.652 seconds
+[2022-07-31 03:23:00,985] {processor.py:153} INFO - Started process (PID=13785) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:23:00,986] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:23:00,987] {logging_mixin.py:115} INFO - [2022-07-31 03:23:00,986] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:23:01,459] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:23:01,467] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:23:01,496] {logging_mixin.py:115} INFO - [2022-07-31 03:23:01,495] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:23:01,529] {logging_mixin.py:115} INFO - [2022-07-31 03:23:01,529] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:23:01,551] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.570 seconds
+[2022-07-31 03:23:32,383] {processor.py:153} INFO - Started process (PID=13988) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:23:32,384] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:23:32,384] {logging_mixin.py:115} INFO - [2022-07-31 03:23:32,384] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:23:32,918] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:23:32,927] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:23:32,958] {logging_mixin.py:115} INFO - [2022-07-31 03:23:32,958] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:23:32,993] {logging_mixin.py:115} INFO - [2022-07-31 03:23:32,993] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:23:33,018] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.638 seconds
+[2022-07-31 03:24:03,895] {processor.py:153} INFO - Started process (PID=14182) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:24:03,896] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:24:03,896] {logging_mixin.py:115} INFO - [2022-07-31 03:24:03,896] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:24:04,418] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:24:04,428] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:24:04,464] {logging_mixin.py:115} INFO - [2022-07-31 03:24:04,463] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:24:04,495] {logging_mixin.py:115} INFO - [2022-07-31 03:24:04,495] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:24:04,517] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.626 seconds
+[2022-07-31 03:24:34,887] {processor.py:153} INFO - Started process (PID=14385) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:24:34,888] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:24:34,889] {logging_mixin.py:115} INFO - [2022-07-31 03:24:34,889] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:24:35,314] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:24:35,320] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:24:35,351] {logging_mixin.py:115} INFO - [2022-07-31 03:24:35,350] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:24:35,386] {logging_mixin.py:115} INFO - [2022-07-31 03:24:35,386] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:24:35,409] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.525 seconds
+[2022-07-31 03:25:06,162] {processor.py:153} INFO - Started process (PID=14579) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:25:06,163] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:25:06,164] {logging_mixin.py:115} INFO - [2022-07-31 03:25:06,164] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:25:06,860] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:25:06,870] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:25:06,903] {logging_mixin.py:115} INFO - [2022-07-31 03:25:06,902] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:25:06,936] {logging_mixin.py:115} INFO - [2022-07-31 03:25:06,936] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:25:06,966] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.807 seconds
+[2022-07-31 03:25:37,179] {processor.py:153} INFO - Started process (PID=14782) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:25:37,180] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:25:37,181] {logging_mixin.py:115} INFO - [2022-07-31 03:25:37,181] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:25:37,723] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:25:37,732] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:25:37,764] {logging_mixin.py:115} INFO - [2022-07-31 03:25:37,763] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:25:37,801] {logging_mixin.py:115} INFO - [2022-07-31 03:25:37,801] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:25:37,821] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.646 seconds
+[2022-07-31 03:26:07,900] {processor.py:153} INFO - Started process (PID=14976) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:26:07,900] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:26:07,901] {logging_mixin.py:115} INFO - [2022-07-31 03:26:07,901] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:26:08,354] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:26:08,360] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:26:08,405] {logging_mixin.py:115} INFO - [2022-07-31 03:26:08,404] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:26:08,434] {logging_mixin.py:115} INFO - [2022-07-31 03:26:08,434] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:26:08,455] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.559 seconds
+[2022-07-31 03:26:39,418] {processor.py:153} INFO - Started process (PID=15179) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:26:39,419] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:26:39,420] {logging_mixin.py:115} INFO - [2022-07-31 03:26:39,420] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:26:39,882] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:26:39,888] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:26:39,916] {logging_mixin.py:115} INFO - [2022-07-31 03:26:39,915] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:26:39,944] {logging_mixin.py:115} INFO - [2022-07-31 03:26:39,944] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:26:39,971] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.556 seconds
+[2022-07-31 03:27:10,915] {processor.py:153} INFO - Started process (PID=15373) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:27:10,917] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:27:10,918] {logging_mixin.py:115} INFO - [2022-07-31 03:27:10,918] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:27:11,491] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:27:11,500] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:27:11,530] {logging_mixin.py:115} INFO - [2022-07-31 03:27:11,530] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:27:11,558] {logging_mixin.py:115} INFO - [2022-07-31 03:27:11,558] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:27:11,575] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.666 seconds
+[2022-07-31 03:27:42,316] {processor.py:153} INFO - Started process (PID=15577) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:27:42,318] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:27:42,319] {logging_mixin.py:115} INFO - [2022-07-31 03:27:42,319] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:27:42,948] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:27:42,958] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:27:42,997] {logging_mixin.py:115} INFO - [2022-07-31 03:27:42,996] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:27:43,033] {logging_mixin.py:115} INFO - [2022-07-31 03:27:43,033] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:27:43,055] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.743 seconds
+[2022-07-31 03:28:13,136] {processor.py:153} INFO - Started process (PID=15781) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:28:13,137] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:28:13,138] {logging_mixin.py:115} INFO - [2022-07-31 03:28:13,137] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:28:13,679] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:28:13,686] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:28:13,715] {logging_mixin.py:115} INFO - [2022-07-31 03:28:13,715] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:28:13,745] {logging_mixin.py:115} INFO - [2022-07-31 03:28:13,745] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:28:13,773] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.641 seconds
+[2022-07-31 03:28:43,995] {processor.py:153} INFO - Started process (PID=15975) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:28:43,996] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:28:43,997] {logging_mixin.py:115} INFO - [2022-07-31 03:28:43,996] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:28:44,504] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:28:44,510] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:28:44,546] {logging_mixin.py:115} INFO - [2022-07-31 03:28:44,545] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:28:44,577] {logging_mixin.py:115} INFO - [2022-07-31 03:28:44,577] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:28:44,607] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.616 seconds
+[2022-07-31 03:29:14,748] {processor.py:153} INFO - Started process (PID=16178) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:29:14,748] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:29:14,749] {logging_mixin.py:115} INFO - [2022-07-31 03:29:14,749] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:29:15,206] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:29:15,212] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:29:15,237] {logging_mixin.py:115} INFO - [2022-07-31 03:29:15,237] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:29:15,263] {logging_mixin.py:115} INFO - [2022-07-31 03:29:15,263] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:29:15,280] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.535 seconds
+[2022-07-31 03:29:46,023] {processor.py:153} INFO - Started process (PID=16373) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:29:46,025] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:29:46,025] {logging_mixin.py:115} INFO - [2022-07-31 03:29:46,025] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:29:46,479] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:29:46,486] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:29:46,516] {logging_mixin.py:115} INFO - [2022-07-31 03:29:46,515] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:29:46,543] {logging_mixin.py:115} INFO - [2022-07-31 03:29:46,543] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:29:46,561] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.541 seconds
+[2022-07-31 03:30:17,243] {processor.py:153} INFO - Started process (PID=16576) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:30:17,245] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:30:17,246] {logging_mixin.py:115} INFO - [2022-07-31 03:30:17,246] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:30:17,763] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:30:17,771] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:30:17,803] {logging_mixin.py:115} INFO - [2022-07-31 03:30:17,802] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:30:17,831] {logging_mixin.py:115} INFO - [2022-07-31 03:30:17,831] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:30:17,859] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.621 seconds
+[2022-07-31 03:30:48,480] {processor.py:153} INFO - Started process (PID=16770) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:30:48,481] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:30:48,482] {logging_mixin.py:115} INFO - [2022-07-31 03:30:48,482] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:30:48,929] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:30:48,936] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:30:48,979] {logging_mixin.py:115} INFO - [2022-07-31 03:30:48,978] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:30:49,010] {logging_mixin.py:115} INFO - [2022-07-31 03:30:49,010] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:30:49,030] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.553 seconds
+[2022-07-31 03:31:19,834] {processor.py:153} INFO - Started process (PID=16973) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:31:19,835] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:31:19,836] {logging_mixin.py:115} INFO - [2022-07-31 03:31:19,836] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:31:20,290] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:31:20,296] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:31:20,327] {logging_mixin.py:115} INFO - [2022-07-31 03:31:20,326] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:31:20,354] {logging_mixin.py:115} INFO - [2022-07-31 03:31:20,354] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:31:20,380] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.550 seconds
+[2022-07-31 03:31:51,129] {processor.py:153} INFO - Started process (PID=17174) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:31:51,130] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:31:51,131] {logging_mixin.py:115} INFO - [2022-07-31 03:31:51,131] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:31:51,651] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:31:51,658] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:31:51,689] {logging_mixin.py:115} INFO - [2022-07-31 03:31:51,688] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:31:51,726] {logging_mixin.py:115} INFO - [2022-07-31 03:31:51,725] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:31:51,747] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.622 seconds
+[2022-07-31 03:32:22,540] {processor.py:153} INFO - Started process (PID=17370) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:32:22,540] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:32:22,541] {logging_mixin.py:115} INFO - [2022-07-31 03:32:22,541] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:32:22,982] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:32:22,990] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:32:23,021] {logging_mixin.py:115} INFO - [2022-07-31 03:32:23,021] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:32:23,050] {logging_mixin.py:115} INFO - [2022-07-31 03:32:23,050] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:32:23,070] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.534 seconds
+[2022-07-31 03:32:53,741] {processor.py:153} INFO - Started process (PID=17573) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:32:53,742] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:32:53,743] {logging_mixin.py:115} INFO - [2022-07-31 03:32:53,743] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:32:54,213] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:32:54,222] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:32:54,253] {logging_mixin.py:115} INFO - [2022-07-31 03:32:54,253] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:32:54,283] {logging_mixin.py:115} INFO - [2022-07-31 03:32:54,283] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:32:54,311] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.573 seconds
+[2022-07-31 03:33:25,124] {processor.py:153} INFO - Started process (PID=17767) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:33:25,125] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:33:25,126] {logging_mixin.py:115} INFO - [2022-07-31 03:33:25,126] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:33:25,586] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:33:25,596] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:33:25,627] {logging_mixin.py:115} INFO - [2022-07-31 03:33:25,626] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:33:25,655] {logging_mixin.py:115} INFO - [2022-07-31 03:33:25,655] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:33:25,670] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.549 seconds
+[2022-07-31 03:33:56,346] {processor.py:153} INFO - Started process (PID=17971) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:33:56,347] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:33:56,348] {logging_mixin.py:115} INFO - [2022-07-31 03:33:56,348] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:33:56,791] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:33:56,797] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:33:56,828] {logging_mixin.py:115} INFO - [2022-07-31 03:33:56,827] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:33:56,859] {logging_mixin.py:115} INFO - [2022-07-31 03:33:56,859] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:33:56,878] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.536 seconds
+[2022-07-31 03:34:27,723] {processor.py:153} INFO - Started process (PID=18165) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:34:27,724] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:34:27,725] {logging_mixin.py:115} INFO - [2022-07-31 03:34:27,725] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:34:28,219] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:34:28,225] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:34:28,257] {logging_mixin.py:115} INFO - [2022-07-31 03:34:28,256] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:34:28,286] {logging_mixin.py:115} INFO - [2022-07-31 03:34:28,286] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:34:28,302] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.584 seconds
+[2022-07-31 03:34:58,775] {processor.py:153} INFO - Started process (PID=18368) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:34:58,776] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:34:58,777] {logging_mixin.py:115} INFO - [2022-07-31 03:34:58,777] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:34:59,269] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:34:59,276] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:34:59,306] {logging_mixin.py:115} INFO - [2022-07-31 03:34:59,305] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:34:59,334] {logging_mixin.py:115} INFO - [2022-07-31 03:34:59,334] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:34:59,360] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.590 seconds
+[2022-07-31 03:35:29,438] {processor.py:153} INFO - Started process (PID=18572) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:35:29,439] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:35:29,440] {logging_mixin.py:115} INFO - [2022-07-31 03:35:29,440] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:35:30,008] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:35:30,019] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:35:30,058] {logging_mixin.py:115} INFO - [2022-07-31 03:35:30,057] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:35:30,090] {logging_mixin.py:115} INFO - [2022-07-31 03:35:30,090] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:35:30,108] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.676 seconds
+[2022-07-31 03:36:00,176] {processor.py:153} INFO - Started process (PID=18766) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:36:00,177] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:36:00,178] {logging_mixin.py:115} INFO - [2022-07-31 03:36:00,178] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:36:00,663] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:36:00,669] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:36:00,698] {logging_mixin.py:115} INFO - [2022-07-31 03:36:00,697] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:36:00,726] {logging_mixin.py:115} INFO - [2022-07-31 03:36:00,726] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:36:00,755] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.583 seconds
+[2022-07-31 03:36:31,090] {processor.py:153} INFO - Started process (PID=18968) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:36:31,091] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:36:31,092] {logging_mixin.py:115} INFO - [2022-07-31 03:36:31,092] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:36:31,582] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:36:31,588] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:36:31,621] {logging_mixin.py:115} INFO - [2022-07-31 03:36:31,621] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:36:31,650] {logging_mixin.py:115} INFO - [2022-07-31 03:36:31,650] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:36:31,676] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.591 seconds
+[2022-07-31 03:37:02,469] {processor.py:153} INFO - Started process (PID=19172) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:37:02,470] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:37:02,471] {logging_mixin.py:115} INFO - [2022-07-31 03:37:02,470] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:37:02,974] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:37:02,982] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:37:03,015] {logging_mixin.py:115} INFO - [2022-07-31 03:37:03,014] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:37:03,046] {logging_mixin.py:115} INFO - [2022-07-31 03:37:03,045] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:37:03,072] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.607 seconds
+[2022-07-31 03:37:33,247] {processor.py:153} INFO - Started process (PID=19391) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:37:33,247] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:37:33,248] {logging_mixin.py:115} INFO - [2022-07-31 03:37:33,248] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:37:33,733] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:37:33,741] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:37:33,780] {logging_mixin.py:115} INFO - [2022-07-31 03:37:33,779] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:37:33,819] {logging_mixin.py:115} INFO - [2022-07-31 03:37:33,819] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:37:33,837] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.593 seconds
+[2022-07-31 03:38:04,594] {processor.py:153} INFO - Started process (PID=19595) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:38:04,594] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:38:04,595] {logging_mixin.py:115} INFO - [2022-07-31 03:38:04,595] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:38:05,109] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:38:05,116] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:38:05,147] {logging_mixin.py:115} INFO - [2022-07-31 03:38:05,146] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:38:05,181] {logging_mixin.py:115} INFO - [2022-07-31 03:38:05,181] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:38:05,199] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.610 seconds
+[2022-07-31 03:38:35,637] {processor.py:153} INFO - Started process (PID=19798) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:38:35,637] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:38:35,638] {logging_mixin.py:115} INFO - [2022-07-31 03:38:35,638] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:38:36,162] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:38:36,171] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:38:36,207] {logging_mixin.py:115} INFO - [2022-07-31 03:38:36,206] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:38:36,246] {logging_mixin.py:115} INFO - [2022-07-31 03:38:36,246] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:38:36,269] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.636 seconds
+[2022-07-31 03:39:06,511] {processor.py:153} INFO - Started process (PID=20019) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:39:06,512] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:39:06,513] {logging_mixin.py:115} INFO - [2022-07-31 03:39:06,513] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:39:07,064] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:39:07,072] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:39:07,107] {logging_mixin.py:115} INFO - [2022-07-31 03:39:07,106] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:39:07,137] {logging_mixin.py:115} INFO - [2022-07-31 03:39:07,137] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:39:07,156] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.650 seconds
+[2022-07-31 03:39:37,662] {processor.py:153} INFO - Started process (PID=20215) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:39:37,663] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:39:37,664] {logging_mixin.py:115} INFO - [2022-07-31 03:39:37,664] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:39:38,194] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:39:38,202] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:39:38,233] {logging_mixin.py:115} INFO - [2022-07-31 03:39:38,233] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:39:38,266] {logging_mixin.py:115} INFO - [2022-07-31 03:39:38,266] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:39:38,284] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.626 seconds
+[2022-07-31 03:40:08,505] {processor.py:153} INFO - Started process (PID=20418) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:40:08,506] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:40:08,507] {logging_mixin.py:115} INFO - [2022-07-31 03:40:08,506] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:40:09,056] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:40:09,063] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:40:09,097] {logging_mixin.py:115} INFO - [2022-07-31 03:40:09,096] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:40:09,140] {logging_mixin.py:115} INFO - [2022-07-31 03:40:09,139] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:40:09,166] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.666 seconds
+[2022-07-31 03:40:39,330] {processor.py:153} INFO - Started process (PID=20612) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:40:39,332] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:40:39,333] {logging_mixin.py:115} INFO - [2022-07-31 03:40:39,333] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:40:39,860] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:40:39,869] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:40:39,905] {logging_mixin.py:115} INFO - [2022-07-31 03:40:39,904] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:40:39,935] {logging_mixin.py:115} INFO - [2022-07-31 03:40:39,935] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:40:39,954] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.629 seconds
+[2022-07-31 03:41:10,378] {processor.py:153} INFO - Started process (PID=20815) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:41:10,379] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:41:10,379] {logging_mixin.py:115} INFO - [2022-07-31 03:41:10,379] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:41:10,882] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:41:10,889] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:41:10,918] {logging_mixin.py:115} INFO - [2022-07-31 03:41:10,917] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:41:10,958] {logging_mixin.py:115} INFO - [2022-07-31 03:41:10,958] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:41:10,978] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.605 seconds
+[2022-07-31 03:41:41,108] {processor.py:153} INFO - Started process (PID=21025) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:41:41,109] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:41:41,109] {logging_mixin.py:115} INFO - [2022-07-31 03:41:41,109] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:41:41,599] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:41:41,606] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:41:41,636] {logging_mixin.py:115} INFO - [2022-07-31 03:41:41,635] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:41:41,666] {logging_mixin.py:115} INFO - [2022-07-31 03:41:41,666] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:41:41,683] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.580 seconds
+[2022-07-31 03:42:11,742] {processor.py:153} INFO - Started process (PID=21243) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:42:11,743] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:42:11,744] {logging_mixin.py:115} INFO - [2022-07-31 03:42:11,744] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:42:12,163] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:42:12,169] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:42:12,194] {logging_mixin.py:115} INFO - [2022-07-31 03:42:12,193] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:42:12,218] {logging_mixin.py:115} INFO - [2022-07-31 03:42:12,218] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:42:12,241] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.502 seconds
+[2022-07-31 03:42:42,866] {processor.py:153} INFO - Started process (PID=21437) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:42:42,866] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:42:42,867] {logging_mixin.py:115} INFO - [2022-07-31 03:42:42,867] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:42:43,385] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:42:43,393] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:42:43,426] {logging_mixin.py:115} INFO - [2022-07-31 03:42:43,425] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:42:43,456] {logging_mixin.py:115} INFO - [2022-07-31 03:42:43,456] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:42:43,483] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.622 seconds
+[2022-07-31 03:43:14,006] {processor.py:153} INFO - Started process (PID=21640) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:43:14,007] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:43:14,008] {logging_mixin.py:115} INFO - [2022-07-31 03:43:14,008] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:43:14,542] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:43:14,550] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:43:14,582] {logging_mixin.py:115} INFO - [2022-07-31 03:43:14,581] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:43:14,611] {logging_mixin.py:115} INFO - [2022-07-31 03:43:14,611] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:43:14,637] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.636 seconds
+[2022-07-31 03:43:44,806] {processor.py:153} INFO - Started process (PID=21849) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:43:44,807] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:43:44,808] {logging_mixin.py:115} INFO - [2022-07-31 03:43:44,808] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:43:45,310] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:43:45,317] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:43:45,346] {logging_mixin.py:115} INFO - [2022-07-31 03:43:45,345] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:43:45,373] {logging_mixin.py:115} INFO - [2022-07-31 03:43:45,373] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:43:45,398] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.595 seconds
+[2022-07-31 03:44:15,785] {processor.py:153} INFO - Started process (PID=22047) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:44:15,786] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:44:15,787] {logging_mixin.py:115} INFO - [2022-07-31 03:44:15,787] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:44:16,297] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:44:16,303] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:44:16,343] {logging_mixin.py:115} INFO - [2022-07-31 03:44:16,342] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:44:16,375] {logging_mixin.py:115} INFO - [2022-07-31 03:44:16,375] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:44:16,397] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.617 seconds
+[2022-07-31 03:44:46,503] {processor.py:153} INFO - Started process (PID=22263) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:44:46,504] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:44:46,505] {logging_mixin.py:115} INFO - [2022-07-31 03:44:46,505] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:44:47,060] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:44:47,069] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:44:47,098] {logging_mixin.py:115} INFO - [2022-07-31 03:44:47,097] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:44:47,136] {logging_mixin.py:115} INFO - [2022-07-31 03:44:47,136] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:44:47,153] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.655 seconds
+[2022-07-31 03:45:17,774] {processor.py:153} INFO - Started process (PID=22465) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:45:17,775] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:45:17,776] {logging_mixin.py:115} INFO - [2022-07-31 03:45:17,776] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:45:18,350] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:45:18,359] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:45:18,398] {logging_mixin.py:115} INFO - [2022-07-31 03:45:18,397] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:45:18,436] {logging_mixin.py:115} INFO - [2022-07-31 03:45:18,436] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:45:18,459] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.689 seconds
+[2022-07-31 03:45:48,536] {processor.py:153} INFO - Started process (PID=22683) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:45:48,537] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:45:48,538] {logging_mixin.py:115} INFO - [2022-07-31 03:45:48,538] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:45:49,085] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:45:49,091] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:45:49,126] {logging_mixin.py:115} INFO - [2022-07-31 03:45:49,124] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:45:49,169] {logging_mixin.py:115} INFO - [2022-07-31 03:45:49,168] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:45:49,198] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.667 seconds
+[2022-07-31 03:46:19,587] {processor.py:153} INFO - Started process (PID=22890) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:46:19,588] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:46:19,589] {logging_mixin.py:115} INFO - [2022-07-31 03:46:19,589] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:46:20,026] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:46:20,033] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:46:20,064] {logging_mixin.py:115} INFO - [2022-07-31 03:46:20,063] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:46:20,095] {logging_mixin.py:115} INFO - [2022-07-31 03:46:20,095] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:46:20,114] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.531 seconds
+[2022-07-31 03:46:50,527] {processor.py:153} INFO - Started process (PID=23094) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:46:50,528] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:46:50,529] {logging_mixin.py:115} INFO - [2022-07-31 03:46:50,529] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:46:50,991] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:46:50,997] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:46:51,022] {logging_mixin.py:115} INFO - [2022-07-31 03:46:51,021] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:46:51,052] {logging_mixin.py:115} INFO - [2022-07-31 03:46:51,052] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:46:51,077] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.553 seconds
+[2022-07-31 03:47:21,398] {processor.py:153} INFO - Started process (PID=23293) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:47:21,399] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:47:21,400] {logging_mixin.py:115} INFO - [2022-07-31 03:47:21,400] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:47:21,965] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:47:21,973] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:47:22,000] {logging_mixin.py:115} INFO - [2022-07-31 03:47:21,999] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:47:22,026] {logging_mixin.py:115} INFO - [2022-07-31 03:47:22,026] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:47:22,051] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.658 seconds
+[2022-07-31 03:47:52,230] {processor.py:153} INFO - Started process (PID=23511) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:47:52,231] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:47:52,232] {logging_mixin.py:115} INFO - [2022-07-31 03:47:52,232] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:47:52,659] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:47:52,666] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:47:52,694] {logging_mixin.py:115} INFO - [2022-07-31 03:47:52,693] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:47:52,720] {logging_mixin.py:115} INFO - [2022-07-31 03:47:52,720] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:47:52,738] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.511 seconds
+[2022-07-31 03:48:23,420] {processor.py:153} INFO - Started process (PID=23707) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:48:23,421] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:48:23,422] {logging_mixin.py:115} INFO - [2022-07-31 03:48:23,421] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:48:23,784] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:48:23,789] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:48:23,813] {logging_mixin.py:115} INFO - [2022-07-31 03:48:23,813] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:48:23,836] {logging_mixin.py:115} INFO - [2022-07-31 03:48:23,836] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:48:23,850] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.431 seconds
+[2022-07-31 03:48:54,687] {processor.py:153} INFO - Started process (PID=23910) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:48:54,688] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:48:54,689] {logging_mixin.py:115} INFO - [2022-07-31 03:48:54,689] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:48:55,148] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:48:55,155] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:48:55,189] {logging_mixin.py:115} INFO - [2022-07-31 03:48:55,188] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:48:55,220] {logging_mixin.py:115} INFO - [2022-07-31 03:48:55,220] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:48:55,248] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.566 seconds
+[2022-07-31 03:49:25,457] {processor.py:153} INFO - Started process (PID=24104) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:49:25,458] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:49:25,459] {logging_mixin.py:115} INFO - [2022-07-31 03:49:25,459] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:49:25,972] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:49:25,979] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:49:26,012] {logging_mixin.py:115} INFO - [2022-07-31 03:49:26,011] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:49:26,044] {logging_mixin.py:115} INFO - [2022-07-31 03:49:26,044] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:49:26,062] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.609 seconds
+[2022-07-31 03:49:56,656] {processor.py:153} INFO - Started process (PID=24307) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:49:56,657] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:49:56,658] {logging_mixin.py:115} INFO - [2022-07-31 03:49:56,658] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:49:57,155] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:49:57,163] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:49:57,197] {logging_mixin.py:115} INFO - [2022-07-31 03:49:57,197] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:49:57,232] {logging_mixin.py:115} INFO - [2022-07-31 03:49:57,232] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:49:57,251] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.598 seconds
+[2022-07-31 03:50:27,680] {processor.py:153} INFO - Started process (PID=24510) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:50:27,681] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:50:27,683] {logging_mixin.py:115} INFO - [2022-07-31 03:50:27,683] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:50:28,162] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:50:28,171] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:50:28,201] {logging_mixin.py:115} INFO - [2022-07-31 03:50:28,200] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:50:28,232] {logging_mixin.py:115} INFO - [2022-07-31 03:50:28,232] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:50:28,251] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.577 seconds
+[2022-07-31 03:50:58,759] {processor.py:153} INFO - Started process (PID=24704) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:50:58,760] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:50:58,761] {logging_mixin.py:115} INFO - [2022-07-31 03:50:58,761] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:50:59,279] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:50:59,285] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:50:59,316] {logging_mixin.py:115} INFO - [2022-07-31 03:50:59,315] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:50:59,344] {logging_mixin.py:115} INFO - [2022-07-31 03:50:59,344] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:50:59,361] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.607 seconds
+[2022-07-31 03:51:30,167] {processor.py:153} INFO - Started process (PID=24912) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:51:30,168] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:51:30,169] {logging_mixin.py:115} INFO - [2022-07-31 03:51:30,169] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:51:30,615] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:51:30,620] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:51:30,646] {logging_mixin.py:115} INFO - [2022-07-31 03:51:30,646] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:51:30,671] {logging_mixin.py:115} INFO - [2022-07-31 03:51:30,671] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:51:30,695] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.532 seconds
+[2022-07-31 03:52:00,789] {processor.py:153} INFO - Started process (PID=25106) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:52:00,790] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:52:00,791] {logging_mixin.py:115} INFO - [2022-07-31 03:52:00,790] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:52:01,223] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:52:01,229] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:52:01,257] {logging_mixin.py:115} INFO - [2022-07-31 03:52:01,257] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:52:01,284] {logging_mixin.py:115} INFO - [2022-07-31 03:52:01,284] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:52:01,312] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.527 seconds
+[2022-07-31 03:52:32,021] {processor.py:153} INFO - Started process (PID=25309) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:52:32,022] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:52:32,023] {logging_mixin.py:115} INFO - [2022-07-31 03:52:32,022] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:52:32,476] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:52:32,483] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:52:32,510] {logging_mixin.py:115} INFO - [2022-07-31 03:52:32,510] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:52:32,539] {logging_mixin.py:115} INFO - [2022-07-31 03:52:32,539] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:52:32,554] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.537 seconds
+[2022-07-31 03:53:03,320] {processor.py:153} INFO - Started process (PID=25503) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:53:03,322] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:53:03,323] {logging_mixin.py:115} INFO - [2022-07-31 03:53:03,323] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:53:03,807] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:53:03,816] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:53:03,855] {logging_mixin.py:115} INFO - [2022-07-31 03:53:03,854] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:53:03,885] {logging_mixin.py:115} INFO - [2022-07-31 03:53:03,885] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:53:03,903] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.588 seconds
+[2022-07-31 03:53:34,738] {processor.py:153} INFO - Started process (PID=25706) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:53:34,739] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:53:34,740] {logging_mixin.py:115} INFO - [2022-07-31 03:53:34,740] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:53:35,187] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:53:35,193] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:53:35,223] {logging_mixin.py:115} INFO - [2022-07-31 03:53:35,222] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:53:35,250] {logging_mixin.py:115} INFO - [2022-07-31 03:53:35,250] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:53:35,269] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.534 seconds
+[2022-07-31 03:54:06,001] {processor.py:153} INFO - Started process (PID=25907) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:54:06,003] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:54:06,004] {logging_mixin.py:115} INFO - [2022-07-31 03:54:06,004] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:54:06,585] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:54:06,596] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:54:06,640] {logging_mixin.py:115} INFO - [2022-07-31 03:54:06,639] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:54:06,684] {logging_mixin.py:115} INFO - [2022-07-31 03:54:06,683] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:54:06,717] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.722 seconds
+[2022-07-31 03:54:37,527] {processor.py:153} INFO - Started process (PID=26103) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:54:37,528] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:54:37,529] {logging_mixin.py:115} INFO - [2022-07-31 03:54:37,529] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:54:37,974] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:54:37,982] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:54:38,011] {logging_mixin.py:115} INFO - [2022-07-31 03:54:38,010] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:54:38,038] {logging_mixin.py:115} INFO - [2022-07-31 03:54:38,038] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:54:38,057] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.533 seconds
+[2022-07-31 03:55:08,848] {processor.py:153} INFO - Started process (PID=26306) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:55:08,849] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:55:08,850] {logging_mixin.py:115} INFO - [2022-07-31 03:55:08,850] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:55:09,324] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:55:09,331] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:55:09,362] {logging_mixin.py:115} INFO - [2022-07-31 03:55:09,361] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:55:09,391] {logging_mixin.py:115} INFO - [2022-07-31 03:55:09,391] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:55:09,408] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.563 seconds
+[2022-07-31 03:55:40,097] {processor.py:153} INFO - Started process (PID=26500) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:55:40,098] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:55:40,099] {logging_mixin.py:115} INFO - [2022-07-31 03:55:40,099] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:55:40,572] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:55:40,579] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:55:40,610] {logging_mixin.py:115} INFO - [2022-07-31 03:55:40,610] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:55:40,637] {logging_mixin.py:115} INFO - [2022-07-31 03:55:40,637] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:55:40,655] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.561 seconds
+[2022-07-31 03:56:10,755] {processor.py:153} INFO - Started process (PID=26703) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:56:10,756] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:56:10,757] {logging_mixin.py:115} INFO - [2022-07-31 03:56:10,757] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:56:11,231] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:56:11,238] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:56:11,266] {logging_mixin.py:115} INFO - [2022-07-31 03:56:11,265] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:56:11,294] {logging_mixin.py:115} INFO - [2022-07-31 03:56:11,294] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:56:11,319] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.567 seconds
+[2022-07-31 03:56:41,859] {processor.py:153} INFO - Started process (PID=26897) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:56:41,860] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:56:41,861] {logging_mixin.py:115} INFO - [2022-07-31 03:56:41,860] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:56:42,375] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:56:42,382] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:56:42,414] {logging_mixin.py:115} INFO - [2022-07-31 03:56:42,414] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:56:42,448] {logging_mixin.py:115} INFO - [2022-07-31 03:56:42,448] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:56:42,466] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.612 seconds
+[2022-07-31 03:57:13,444] {processor.py:153} INFO - Started process (PID=27100) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:57:13,445] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:57:13,446] {logging_mixin.py:115} INFO - [2022-07-31 03:57:13,446] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:57:13,997] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:57:14,006] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:57:14,041] {logging_mixin.py:115} INFO - [2022-07-31 03:57:14,040] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:57:14,076] {logging_mixin.py:115} INFO - [2022-07-31 03:57:14,075] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:57:14,097] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.656 seconds
+[2022-07-31 03:57:44,256] {processor.py:153} INFO - Started process (PID=27294) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:57:44,257] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:57:44,259] {logging_mixin.py:115} INFO - [2022-07-31 03:57:44,258] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:57:44,834] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:57:44,843] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:57:44,882] {logging_mixin.py:115} INFO - [2022-07-31 03:57:44,881] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:57:44,920] {logging_mixin.py:115} INFO - [2022-07-31 03:57:44,920] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:57:44,944] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.693 seconds
+[2022-07-31 03:58:15,645] {processor.py:153} INFO - Started process (PID=27497) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:58:15,646] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:58:15,647] {logging_mixin.py:115} INFO - [2022-07-31 03:58:15,647] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:58:16,092] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:58:16,099] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:58:16,129] {logging_mixin.py:115} INFO - [2022-07-31 03:58:16,128] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:58:16,157] {logging_mixin.py:115} INFO - [2022-07-31 03:58:16,157] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:58:16,176] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.534 seconds
+[2022-07-31 03:58:46,947] {processor.py:153} INFO - Started process (PID=27701) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:58:46,948] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:58:46,949] {logging_mixin.py:115} INFO - [2022-07-31 03:58:46,949] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:58:47,496] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:58:47,503] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:58:47,532] {logging_mixin.py:115} INFO - [2022-07-31 03:58:47,531] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:58:47,566] {logging_mixin.py:115} INFO - [2022-07-31 03:58:47,566] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:58:47,594] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.651 seconds
+[2022-07-31 03:59:18,355] {processor.py:153} INFO - Started process (PID=27895) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:59:18,356] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:59:18,357] {logging_mixin.py:115} INFO - [2022-07-31 03:59:18,357] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:59:18,796] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:59:18,803] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:59:18,832] {logging_mixin.py:115} INFO - [2022-07-31 03:59:18,832] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:59:18,860] {logging_mixin.py:115} INFO - [2022-07-31 03:59:18,860] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:59:18,877] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.525 seconds
+[2022-07-31 03:59:49,817] {processor.py:153} INFO - Started process (PID=28098) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 03:59:49,818] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 03:59:49,818] {logging_mixin.py:115} INFO - [2022-07-31 03:59:49,818] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 03:59:50,257] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 03:59:50,265] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 03:59:50,298] {logging_mixin.py:115} INFO - [2022-07-31 03:59:50,297] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 03:59:50,327] {logging_mixin.py:115} INFO - [2022-07-31 03:59:50,327] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 03:59:50,345] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.531 seconds
+[2022-07-31 04:00:21,156] {processor.py:153} INFO - Started process (PID=28293) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:00:21,157] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:00:21,158] {logging_mixin.py:115} INFO - [2022-07-31 04:00:21,158] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:00:21,628] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:00:21,635] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:00:21,665] {logging_mixin.py:115} INFO - [2022-07-31 04:00:21,664] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:00:21,695] {logging_mixin.py:115} INFO - [2022-07-31 04:00:21,695] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:00:21,716] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.562 seconds
+[2022-07-31 04:00:52,529] {processor.py:153} INFO - Started process (PID=28496) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:00:52,530] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:00:52,531] {logging_mixin.py:115} INFO - [2022-07-31 04:00:52,531] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:00:53,053] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:00:53,059] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:00:53,090] {logging_mixin.py:115} INFO - [2022-07-31 04:00:53,089] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:00:53,123] {logging_mixin.py:115} INFO - [2022-07-31 04:00:53,123] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:00:53,139] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.616 seconds
+[2022-07-31 04:01:24,026] {processor.py:153} INFO - Started process (PID=28700) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:01:24,027] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:01:24,028] {logging_mixin.py:115} INFO - [2022-07-31 04:01:24,028] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:01:24,551] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:01:24,559] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:01:24,592] {logging_mixin.py:115} INFO - [2022-07-31 04:01:24,591] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:01:24,627] {logging_mixin.py:115} INFO - [2022-07-31 04:01:24,627] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:01:24,656] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.634 seconds
+[2022-07-31 04:01:55,502] {processor.py:153} INFO - Started process (PID=28903) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:01:55,503] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:01:55,504] {logging_mixin.py:115} INFO - [2022-07-31 04:01:55,503] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:01:55,961] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:01:55,968] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:01:56,001] {logging_mixin.py:115} INFO - [2022-07-31 04:01:55,999] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:01:56,029] {logging_mixin.py:115} INFO - [2022-07-31 04:01:56,029] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:01:56,056] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.557 seconds
+[2022-07-31 04:02:26,999] {processor.py:153} INFO - Started process (PID=29107) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:02:27,000] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:02:27,001] {logging_mixin.py:115} INFO - [2022-07-31 04:02:27,000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:02:27,562] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:02:27,570] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:02:27,603] {logging_mixin.py:115} INFO - [2022-07-31 04:02:27,602] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:02:27,634] {logging_mixin.py:115} INFO - [2022-07-31 04:02:27,634] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:02:27,673] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.679 seconds
+[2022-07-31 04:02:58,208] {processor.py:153} INFO - Started process (PID=29302) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:02:58,209] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:02:58,210] {logging_mixin.py:115} INFO - [2022-07-31 04:02:58,209] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:02:58,724] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:02:58,731] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:02:58,764] {logging_mixin.py:115} INFO - [2022-07-31 04:02:58,763] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:02:58,801] {logging_mixin.py:115} INFO - [2022-07-31 04:02:58,801] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:02:58,822] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.618 seconds
+[2022-07-31 04:03:29,067] {processor.py:153} INFO - Started process (PID=29505) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:03:29,068] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:03:29,070] {logging_mixin.py:115} INFO - [2022-07-31 04:03:29,070] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:03:29,661] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:03:29,670] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:03:29,704] {logging_mixin.py:115} INFO - [2022-07-31 04:03:29,703] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:03:29,733] {logging_mixin.py:115} INFO - [2022-07-31 04:03:29,733] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:03:29,752] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.690 seconds
+[2022-07-31 04:03:59,809] {processor.py:153} INFO - Started process (PID=29709) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:03:59,810] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:03:59,811] {logging_mixin.py:115} INFO - [2022-07-31 04:03:59,811] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:04:00,428] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:04:00,440] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:04:00,480] {logging_mixin.py:115} INFO - [2022-07-31 04:04:00,479] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:04:00,513] {logging_mixin.py:115} INFO - [2022-07-31 04:04:00,513] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:04:00,536] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.731 seconds
+[2022-07-31 04:04:30,717] {processor.py:153} INFO - Started process (PID=29927) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:04:30,718] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:04:30,719] {logging_mixin.py:115} INFO - [2022-07-31 04:04:30,719] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:04:31,218] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:04:31,226] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:04:31,258] {logging_mixin.py:115} INFO - [2022-07-31 04:04:31,257] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:04:31,290] {logging_mixin.py:115} INFO - [2022-07-31 04:04:31,289] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:04:31,313] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.600 seconds
+[2022-07-31 04:05:01,374] {processor.py:153} INFO - Started process (PID=30140) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:05:01,375] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:05:01,375] {logging_mixin.py:115} INFO - [2022-07-31 04:05:01,375] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:05:01,816] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:05:01,823] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:05:01,877] {logging_mixin.py:115} INFO - [2022-07-31 04:05:01,875] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:05:01,951] {logging_mixin.py:115} INFO - [2022-07-31 04:05:01,950] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:05:01,972] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.601 seconds
+[2022-07-31 04:05:32,508] {processor.py:153} INFO - Started process (PID=30344) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:05:32,509] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:05:32,510] {logging_mixin.py:115} INFO - [2022-07-31 04:05:32,510] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:05:33,013] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:05:33,020] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:05:33,051] {logging_mixin.py:115} INFO - [2022-07-31 04:05:33,050] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:05:33,079] {logging_mixin.py:115} INFO - [2022-07-31 04:05:33,079] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:05:33,106] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.602 seconds
+[2022-07-31 04:06:03,180] {processor.py:153} INFO - Started process (PID=30548) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:06:03,181] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:06:03,182] {logging_mixin.py:115} INFO - [2022-07-31 04:06:03,182] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:06:03,647] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:06:03,654] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:06:03,687] {logging_mixin.py:115} INFO - [2022-07-31 04:06:03,686] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:06:03,718] {logging_mixin.py:115} INFO - [2022-07-31 04:06:03,718] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:06:03,736] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.561 seconds
+[2022-07-31 04:06:33,996] {processor.py:153} INFO - Started process (PID=30741) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:06:33,997] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:06:33,998] {logging_mixin.py:115} INFO - [2022-07-31 04:06:33,998] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:06:34,513] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:06:34,521] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:06:34,551] {logging_mixin.py:115} INFO - [2022-07-31 04:06:34,550] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:06:34,579] {logging_mixin.py:115} INFO - [2022-07-31 04:06:34,578] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:06:34,599] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.608 seconds
+[2022-07-31 04:07:04,740] {processor.py:153} INFO - Started process (PID=30950) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:07:04,742] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:07:04,745] {logging_mixin.py:115} INFO - [2022-07-31 04:07:04,744] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:07:05,296] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:07:05,303] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:07:05,339] {logging_mixin.py:115} INFO - [2022-07-31 04:07:05,339] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:07:05,369] {logging_mixin.py:115} INFO - [2022-07-31 04:07:05,369] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:07:05,397] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.663 seconds
+[2022-07-31 04:07:36,017] {processor.py:153} INFO - Started process (PID=31158) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:07:36,018] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:07:36,018] {logging_mixin.py:115} INFO - [2022-07-31 04:07:36,018] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:07:36,524] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:07:36,531] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:07:36,566] {logging_mixin.py:115} INFO - [2022-07-31 04:07:36,564] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:07:36,594] {logging_mixin.py:115} INFO - [2022-07-31 04:07:36,593] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:07:36,623] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.610 seconds
+[2022-07-31 04:08:07,331] {processor.py:153} INFO - Started process (PID=31357) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:08:07,332] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:08:07,333] {logging_mixin.py:115} INFO - [2022-07-31 04:08:07,333] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:08:07,827] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:08:07,834] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:08:07,866] {logging_mixin.py:115} INFO - [2022-07-31 04:08:07,865] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:08:07,896] {logging_mixin.py:115} INFO - [2022-07-31 04:08:07,896] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:08:07,917] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.589 seconds
+[2022-07-31 04:08:38,348] {processor.py:153} INFO - Started process (PID=31560) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:08:38,349] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:08:38,351] {logging_mixin.py:115} INFO - [2022-07-31 04:08:38,351] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:08:38,846] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:08:38,853] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:08:38,882] {logging_mixin.py:115} INFO - [2022-07-31 04:08:38,881] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:08:38,910] {logging_mixin.py:115} INFO - [2022-07-31 04:08:38,910] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:08:38,937] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.593 seconds
+[2022-07-31 04:09:09,031] {processor.py:153} INFO - Started process (PID=31767) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:09:09,032] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:09:09,033] {logging_mixin.py:115} INFO - [2022-07-31 04:09:09,033] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:09:09,568] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:09:09,575] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:09:09,607] {logging_mixin.py:115} INFO - [2022-07-31 04:09:09,606] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:09:09,636] {logging_mixin.py:115} INFO - [2022-07-31 04:09:09,636] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:09:09,663] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.635 seconds
+[2022-07-31 04:09:39,729] {processor.py:153} INFO - Started process (PID=31970) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:09:39,730] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:09:39,731] {logging_mixin.py:115} INFO - [2022-07-31 04:09:39,731] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:09:40,176] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:09:40,183] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:09:40,212] {logging_mixin.py:115} INFO - [2022-07-31 04:09:40,212] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:09:40,242] {logging_mixin.py:115} INFO - [2022-07-31 04:09:40,242] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:09:40,261] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.535 seconds
+[2022-07-31 04:10:11,087] {processor.py:153} INFO - Started process (PID=32176) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:10:11,088] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:10:11,089] {logging_mixin.py:115} INFO - [2022-07-31 04:10:11,089] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:10:11,740] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:10:11,751] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:10:11,788] {logging_mixin.py:115} INFO - [2022-07-31 04:10:11,787] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:10:11,833] {logging_mixin.py:115} INFO - [2022-07-31 04:10:11,833] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:10:11,858] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.775 seconds
+[2022-07-31 04:10:42,476] {processor.py:153} INFO - Started process (PID=32380) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:10:42,477] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:10:42,478] {logging_mixin.py:115} INFO - [2022-07-31 04:10:42,478] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:10:42,970] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:10:42,977] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:10:43,007] {logging_mixin.py:115} INFO - [2022-07-31 04:10:43,006] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:10:43,039] {logging_mixin.py:115} INFO - [2022-07-31 04:10:43,039] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:10:43,068] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.595 seconds
+[2022-07-31 04:11:13,896] {processor.py:153} INFO - Started process (PID=32593) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:11:13,897] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:11:13,897] {logging_mixin.py:115} INFO - [2022-07-31 04:11:13,897] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:11:14,398] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:11:14,406] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:11:14,441] {logging_mixin.py:115} INFO - [2022-07-31 04:11:14,441] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:11:14,470] {logging_mixin.py:115} INFO - [2022-07-31 04:11:14,470] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:11:14,487] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.595 seconds
+[2022-07-31 04:11:44,740] {processor.py:153} INFO - Started process (PID=332) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:11:44,741] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:11:44,742] {logging_mixin.py:115} INFO - [2022-07-31 04:11:44,742] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:11:45,255] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:11:45,261] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:11:45,290] {logging_mixin.py:115} INFO - [2022-07-31 04:11:45,289] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:11:45,317] {logging_mixin.py:115} INFO - [2022-07-31 04:11:45,317] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:11:45,344] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.608 seconds
+[2022-07-31 04:12:15,511] {processor.py:153} INFO - Started process (PID=545) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:12:15,512] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:12:15,513] {logging_mixin.py:115} INFO - [2022-07-31 04:12:15,513] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:12:15,996] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:12:16,003] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:12:16,031] {logging_mixin.py:115} INFO - [2022-07-31 04:12:16,030] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:12:16,058] {logging_mixin.py:115} INFO - [2022-07-31 04:12:16,058] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:12:16,077] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.569 seconds
+[2022-07-31 04:12:46,147] {processor.py:153} INFO - Started process (PID=744) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:12:46,148] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:12:46,149] {logging_mixin.py:115} INFO - [2022-07-31 04:12:46,149] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:12:46,636] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:12:46,649] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:12:46,685] {logging_mixin.py:115} INFO - [2022-07-31 04:12:46,684] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:12:46,715] {logging_mixin.py:115} INFO - [2022-07-31 04:12:46,715] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:12:46,737] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.593 seconds
+[2022-07-31 04:13:17,655] {processor.py:153} INFO - Started process (PID=949) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:13:17,655] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:13:17,656] {logging_mixin.py:115} INFO - [2022-07-31 04:13:17,656] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:13:18,157] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:13:18,163] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:13:18,194] {logging_mixin.py:115} INFO - [2022-07-31 04:13:18,194] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:13:18,222] {logging_mixin.py:115} INFO - [2022-07-31 04:13:18,222] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:13:18,250] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.599 seconds
+[2022-07-31 04:13:48,540] {processor.py:153} INFO - Started process (PID=1143) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:13:48,543] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:13:48,544] {logging_mixin.py:115} INFO - [2022-07-31 04:13:48,544] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:13:49,043] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:13:49,050] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:13:49,086] {logging_mixin.py:115} INFO - [2022-07-31 04:13:49,085] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:13:49,125] {logging_mixin.py:115} INFO - [2022-07-31 04:13:49,125] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:13:49,156] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.620 seconds
+[2022-07-31 04:14:19,501] {processor.py:153} INFO - Started process (PID=1346) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:14:19,502] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:14:19,503] {logging_mixin.py:115} INFO - [2022-07-31 04:14:19,503] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:14:20,024] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:14:20,031] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:14:20,063] {logging_mixin.py:115} INFO - [2022-07-31 04:14:20,062] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:14:20,090] {logging_mixin.py:115} INFO - [2022-07-31 04:14:20,089] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:14:20,111] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.614 seconds
+[2022-07-31 04:14:50,217] {processor.py:153} INFO - Started process (PID=1549) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:14:50,218] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:14:50,219] {logging_mixin.py:115} INFO - [2022-07-31 04:14:50,218] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:14:50,786] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:14:50,796] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:14:50,837] {logging_mixin.py:115} INFO - [2022-07-31 04:14:50,836] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:14:50,876] {logging_mixin.py:115} INFO - [2022-07-31 04:14:50,876] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:14:50,895] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.685 seconds
+[2022-07-31 04:15:21,052] {processor.py:153} INFO - Started process (PID=1743) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:15:21,053] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:15:21,054] {logging_mixin.py:115} INFO - [2022-07-31 04:15:21,053] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:15:21,529] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:15:21,535] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:15:21,565] {logging_mixin.py:115} INFO - [2022-07-31 04:15:21,564] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:15:21,593] {logging_mixin.py:115} INFO - [2022-07-31 04:15:21,593] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:15:21,614] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.565 seconds
+[2022-07-31 04:15:51,794] {processor.py:153} INFO - Started process (PID=1946) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:15:51,795] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:15:51,796] {logging_mixin.py:115} INFO - [2022-07-31 04:15:51,795] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:15:52,365] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:15:52,372] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:15:52,403] {logging_mixin.py:115} INFO - [2022-07-31 04:15:52,402] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:15:52,432] {logging_mixin.py:115} INFO - [2022-07-31 04:15:52,431] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:15:52,456] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.666 seconds
+[2022-07-31 04:16:22,629] {processor.py:153} INFO - Started process (PID=2140) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:16:22,630] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:16:22,631] {logging_mixin.py:115} INFO - [2022-07-31 04:16:22,631] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:16:23,177] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:16:23,184] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:16:23,219] {logging_mixin.py:115} INFO - [2022-07-31 04:16:23,217] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:16:23,247] {logging_mixin.py:115} INFO - [2022-07-31 04:16:23,247] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:16:23,275] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.651 seconds
+[2022-07-31 04:16:53,388] {processor.py:153} INFO - Started process (PID=2343) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:16:53,389] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:16:53,390] {logging_mixin.py:115} INFO - [2022-07-31 04:16:53,390] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:16:53,877] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:16:53,884] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:16:53,921] {logging_mixin.py:115} INFO - [2022-07-31 04:16:53,920] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:16:53,951] {logging_mixin.py:115} INFO - [2022-07-31 04:16:53,951] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:16:53,967] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.583 seconds
+[2022-07-31 04:17:24,161] {processor.py:153} INFO - Started process (PID=2555) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:17:24,162] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:17:24,163] {logging_mixin.py:115} INFO - [2022-07-31 04:17:24,163] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:17:24,624] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:17:24,630] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:17:24,660] {logging_mixin.py:115} INFO - [2022-07-31 04:17:24,658] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:17:24,698] {logging_mixin.py:115} INFO - [2022-07-31 04:17:24,698] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:17:24,727] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.571 seconds
+[2022-07-31 04:17:55,718] {processor.py:153} INFO - Started process (PID=2760) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:17:55,719] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:17:55,720] {logging_mixin.py:115} INFO - [2022-07-31 04:17:55,720] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:17:56,174] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:17:56,180] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:17:56,209] {logging_mixin.py:115} INFO - [2022-07-31 04:17:56,208] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:17:56,236] {logging_mixin.py:115} INFO - [2022-07-31 04:17:56,236] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:17:56,262] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.547 seconds
+[2022-07-31 04:18:26,953] {processor.py:153} INFO - Started process (PID=2954) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:18:26,954] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:18:26,955] {logging_mixin.py:115} INFO - [2022-07-31 04:18:26,955] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:18:27,385] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:18:27,391] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:18:27,422] {logging_mixin.py:115} INFO - [2022-07-31 04:18:27,421] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:18:27,450] {logging_mixin.py:115} INFO - [2022-07-31 04:18:27,450] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:18:27,477] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.527 seconds
+[2022-07-31 04:18:57,538] {processor.py:153} INFO - Started process (PID=3156) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:18:57,539] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:18:57,540] {logging_mixin.py:115} INFO - [2022-07-31 04:18:57,540] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:18:57,967] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:18:57,974] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:18:58,003] {logging_mixin.py:115} INFO - [2022-07-31 04:18:58,002] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:18:58,029] {logging_mixin.py:115} INFO - [2022-07-31 04:18:58,029] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:18:58,056] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.521 seconds
+[2022-07-31 04:19:29,013] {processor.py:153} INFO - Started process (PID=3350) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:19:29,014] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:19:29,015] {logging_mixin.py:115} INFO - [2022-07-31 04:19:29,015] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:19:29,545] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:19:29,552] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:19:29,591] {logging_mixin.py:115} INFO - [2022-07-31 04:19:29,589] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:19:29,633] {logging_mixin.py:115} INFO - [2022-07-31 04:19:29,633] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:19:29,663] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.654 seconds
+[2022-07-31 04:19:59,732] {processor.py:153} INFO - Started process (PID=3558) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:19:59,733] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:19:59,734] {logging_mixin.py:115} INFO - [2022-07-31 04:19:59,733] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:20:00,184] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:20:00,190] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:20:00,223] {logging_mixin.py:115} INFO - [2022-07-31 04:20:00,221] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:20:00,251] {logging_mixin.py:115} INFO - [2022-07-31 04:20:00,251] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:20:00,275] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.548 seconds
+[2022-07-31 04:20:30,360] {processor.py:153} INFO - Started process (PID=3759) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:20:30,361] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:20:30,362] {logging_mixin.py:115} INFO - [2022-07-31 04:20:30,362] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:20:30,837] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:20:30,845] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:20:30,876] {logging_mixin.py:115} INFO - [2022-07-31 04:20:30,875] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:20:30,906] {logging_mixin.py:115} INFO - [2022-07-31 04:20:30,906] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:20:30,934] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.579 seconds
+[2022-07-31 04:21:01,590] {processor.py:153} INFO - Started process (PID=3955) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:21:01,591] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:21:01,592] {logging_mixin.py:115} INFO - [2022-07-31 04:21:01,592] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:21:02,032] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:21:02,038] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:21:02,067] {logging_mixin.py:115} INFO - [2022-07-31 04:21:02,067] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:21:02,095] {logging_mixin.py:115} INFO - [2022-07-31 04:21:02,095] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:21:02,121] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.534 seconds
+[2022-07-31 04:21:32,875] {processor.py:153} INFO - Started process (PID=4158) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:21:32,876] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:21:32,877] {logging_mixin.py:115} INFO - [2022-07-31 04:21:32,877] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:21:33,352] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:21:33,358] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:21:33,387] {logging_mixin.py:115} INFO - [2022-07-31 04:21:33,386] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:21:33,415] {logging_mixin.py:115} INFO - [2022-07-31 04:21:33,415] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:21:33,430] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.560 seconds
+[2022-07-31 04:22:04,216] {processor.py:153} INFO - Started process (PID=4353) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:22:04,217] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:22:04,218] {logging_mixin.py:115} INFO - [2022-07-31 04:22:04,218] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:22:04,684] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:22:04,691] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:22:04,735] {logging_mixin.py:115} INFO - [2022-07-31 04:22:04,734] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:22:04,769] {logging_mixin.py:115} INFO - [2022-07-31 04:22:04,769] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:22:04,790] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.577 seconds
+[2022-07-31 04:22:35,429] {processor.py:153} INFO - Started process (PID=4556) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:22:35,430] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:22:35,431] {logging_mixin.py:115} INFO - [2022-07-31 04:22:35,431] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:22:35,889] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:22:35,896] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:22:35,925] {logging_mixin.py:115} INFO - [2022-07-31 04:22:35,924] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:22:35,952] {logging_mixin.py:115} INFO - [2022-07-31 04:22:35,952] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:22:35,977] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.551 seconds
+[2022-07-31 04:23:06,747] {processor.py:153} INFO - Started process (PID=4750) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:23:06,748] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:23:06,749] {logging_mixin.py:115} INFO - [2022-07-31 04:23:06,749] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:23:07,198] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:23:07,204] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:23:07,233] {logging_mixin.py:115} INFO - [2022-07-31 04:23:07,232] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:23:07,273] {logging_mixin.py:115} INFO - [2022-07-31 04:23:07,273] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:23:07,296] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.555 seconds
+[2022-07-31 04:23:37,997] {processor.py:153} INFO - Started process (PID=4953) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:23:37,998] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:23:37,999] {logging_mixin.py:115} INFO - [2022-07-31 04:23:37,998] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:23:38,442] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:23:38,448] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:23:38,478] {logging_mixin.py:115} INFO - [2022-07-31 04:23:38,477] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:23:38,506] {logging_mixin.py:115} INFO - [2022-07-31 04:23:38,505] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:23:38,532] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.538 seconds
+[2022-07-31 04:24:09,435] {processor.py:153} INFO - Started process (PID=5149) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:24:09,438] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:24:09,440] {logging_mixin.py:115} INFO - [2022-07-31 04:24:09,439] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:24:10,012] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:24:10,022] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:24:10,058] {logging_mixin.py:115} INFO - [2022-07-31 04:24:10,058] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:24:10,102] {logging_mixin.py:115} INFO - [2022-07-31 04:24:10,101] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:24:10,126] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.695 seconds
+[2022-07-31 04:24:40,593] {processor.py:153} INFO - Started process (PID=5350) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:24:40,594] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:24:40,594] {logging_mixin.py:115} INFO - [2022-07-31 04:24:40,594] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:24:41,033] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:24:41,041] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:24:41,070] {logging_mixin.py:115} INFO - [2022-07-31 04:24:41,069] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:24:41,097] {logging_mixin.py:115} INFO - [2022-07-31 04:24:41,097] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:24:41,125] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.536 seconds
+[2022-07-31 04:25:12,022] {processor.py:153} INFO - Started process (PID=5553) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:25:12,023] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:25:12,024] {logging_mixin.py:115} INFO - [2022-07-31 04:25:12,024] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:25:12,570] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:25:12,578] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:25:12,623] {logging_mixin.py:115} INFO - [2022-07-31 04:25:12,621] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:25:12,653] {logging_mixin.py:115} INFO - [2022-07-31 04:25:12,653] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:25:12,683] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.666 seconds
+[2022-07-31 04:25:42,828] {processor.py:153} INFO - Started process (PID=5747) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:25:42,829] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:25:42,829] {logging_mixin.py:115} INFO - [2022-07-31 04:25:42,829] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:25:43,271] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:25:43,277] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:25:43,307] {logging_mixin.py:115} INFO - [2022-07-31 04:25:43,306] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:25:43,335] {logging_mixin.py:115} INFO - [2022-07-31 04:25:43,334] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:25:43,363] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.538 seconds
+[2022-07-31 04:26:13,937] {processor.py:153} INFO - Started process (PID=5950) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:26:13,937] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:26:13,938] {logging_mixin.py:115} INFO - [2022-07-31 04:26:13,938] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:26:14,413] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:26:14,419] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:26:14,453] {logging_mixin.py:115} INFO - [2022-07-31 04:26:14,452] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:26:14,481] {logging_mixin.py:115} INFO - [2022-07-31 04:26:14,481] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:26:14,509] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.576 seconds
+[2022-07-31 04:26:44,658] {processor.py:153} INFO - Started process (PID=6144) to work on /opt/airflow/dags/testDag.py
+[2022-07-31 04:26:44,659] {processor.py:641} INFO - Processing file /opt/airflow/dags/testDag.py for tasks to queue
+[2022-07-31 04:26:44,659] {logging_mixin.py:115} INFO - [2022-07-31 04:26:44,659] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testDag.py
+[2022-07-31 04:26:45,025] {logging_mixin.py:115} INFO - all dags work
+[2022-07-31 04:26:45,031] {processor.py:651} INFO - DAG(s) dict_keys(['csv_dag']) retrieved from /opt/airflow/dags/testDag.py
+[2022-07-31 04:26:45,055] {logging_mixin.py:115} INFO - [2022-07-31 04:26:45,055] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 04:26:45,077] {logging_mixin.py:115} INFO - [2022-07-31 04:26:45,077] {dag.py:2972} INFO - Setting next_dagrun for csv_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 04:26:45,102] {processor.py:161} INFO - Processing /opt/airflow/dags/testDag.py took 0.447 seconds
